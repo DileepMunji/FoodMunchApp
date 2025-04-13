@@ -6,7 +6,6 @@ A responsive website built using HTML, CSS, and Bootstrap for showcasing a food 
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Usage](#usage)
 
 
 ## Project Overview
